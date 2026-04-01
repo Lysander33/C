@@ -10,7 +10,7 @@
                 "-std=c99",
                 "${file}",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                "${fileDirname}\\bin\\${fileBasenameNoExtension}.exe"
             ],
             "options": {
                 "cwd": "D:/Devc++/Dev-Cpp/MinGW64/bin"
